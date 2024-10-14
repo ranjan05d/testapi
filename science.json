@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "question": "What is the chemical formula of water?",
+        "options": [
+            "H2O",
+            "CO2",
+            "O2",
+            "H2SO4"
+        ],
+        "correct_answer": "H2O"
+    },
+    {
+        "id": 2,
+        "question": "Which of the following is a non-metal?",
+        "options": [
+            "Iron",
+            "Sodium",
+            "Chlorine",
+            "Magnesium"
+        ],
+        "correct_answer": "Chlorine"
+    },
+    {
+        "id": 3,
+        "question": "Which gas is most abundant in the Earth's atmosphere?",
+        "options": [
+            "Oxygen",
+            "Nitrogen",
+            "Carbon Dioxide",
+            "Argon"
+        ],
+        "correct_answer": "Nitrogen"
+    },
+    {
+        "id": 4,
+        "question": "What is the SI unit of force?",
+        "options": [
+            "Newton",
+            "Joule",
+            "Pascal",
+            "Watt"
+        ],
+        "correct_answer": "Newton"
+    },
+    {
+        "id": 5,
+        "question": "The smallest unit of life is called?",
+        "options": [
+            "Tissue",
+            "Organ",
+            "Cell",
+            "Atom"
+        ],
+        "correct_answer": "Cell"
+    },
+    {
+        "id": 6,
+        "question": "Which part of the plant conducts photosynthesis?",
+        "options": [
+            "Root",
+            "Stem",
+            "Leaf",
+            "Flower"
+        ],
+        "correct_answer": "Leaf"
+    },
+    {
+        "id": 7,
+        "question": "What is the atomic number of carbon?",
+        "options": [
+            "4",
+            "6",
+            "8",
+            "12"
+        ],
+        "correct_answer": "6"
+    },
+    {
+        "id": 8,
+        "question": "Which of the following is a renewable source of energy?",
+        "options": [
+            "Coal",
+            "Petroleum",
+            "Solar Energy",
+            "Natural Gas"
+        ],
+        "correct_answer": "Solar Energy"
+    },
+    {
+        "id": 9,
+        "question": "In which of the following organelles does cellular respiration occur?",
+        "options": [
+            "Chloroplast",
+            "Mitochondria",
+            "Nucleus",
+            "Ribosome"
+        ],
+        "correct_answer": "Mitochondria"
+    },
+    {
+        "id": 10,
+        "question": "Which law states that force is equal to mass times acceleration?",
+        "options": [
+            "Newton's First Law",
+            "Newton's Second Law",
+            "Law of Conservation of Energy",
+            "Pascal's Law"
+        ],
+        "correct_answer": "Newton's Second Law"
+    }
+]
