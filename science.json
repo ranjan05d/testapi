@@ -8,7 +8,7 @@
             "O2",
             "H2SO4"
         ],
-        "correct_answer": "H2O"
+        "correctAnswer": "H2O"
     },
     {
         "id": 2,
@@ -19,7 +19,7 @@
             "Chlorine",
             "Magnesium"
         ],
-        "correct_answer": "Chlorine"
+        "correctAnswer": "Chlorine"
     },
     {
         "id": 3,
@@ -30,7 +30,7 @@
             "Carbon Dioxide",
             "Argon"
         ],
-        "correct_answer": "Nitrogen"
+        "correctAnswer": "Nitrogen"
     },
     {
         "id": 4,
@@ -41,7 +41,7 @@
             "Pascal",
             "Watt"
         ],
-        "correct_answer": "Newton"
+        "correctAnswer": "Newton"
     },
     {
         "id": 5,
@@ -52,7 +52,7 @@
             "Cell",
             "Atom"
         ],
-        "correct_answer": "Cell"
+        "correctAnswer": "Cell"
     },
     {
         "id": 6,
@@ -63,7 +63,7 @@
             "Leaf",
             "Flower"
         ],
-        "correct_answer": "Leaf"
+        "correctAnswer": "Leaf"
     },
     {
         "id": 7,
@@ -74,7 +74,7 @@
             "8",
             "12"
         ],
-        "correct_answer": "6"
+        "correctAnswer": "6"
     },
     {
         "id": 8,
@@ -85,7 +85,7 @@
             "Solar Energy",
             "Natural Gas"
         ],
-        "correct_answer": "Solar Energy"
+        "correctAnswer": "Solar Energy"
     },
     {
         "id": 9,
@@ -96,7 +96,7 @@
             "Nucleus",
             "Ribosome"
         ],
-        "correct_answer": "Mitochondria"
+        "correctAnswer": "Mitochondria"
     },
     {
         "id": 10,
@@ -107,6 +107,6 @@
             "Law of Conservation of Energy",
             "Pascal's Law"
         ],
-        "correct_answer": "Newton's Second Law"
+        "correctAnswer": "Newton's Second Law"
     }
 ]

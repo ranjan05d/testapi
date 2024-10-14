@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "questionText": "Which is the longest river in the world?",
+        "options": [
+            "Amazon",
+            "Nile",
+            "Yangtze",
+            "Mississippi"
+        ],
+        "correctAnswer": "Nile"
+    },
+    {
+        "id": 2,
+        "questionText": "Which is the largest continent by area?",
+        "options": [
+            "Africa",
+            "Asia",
+            "North America",
+            "Europe"
+        ],
+        "correctAnswer": "Asia"
+    },
+    {
+        "id": 3,
+        "questionText": "Which of the following is a cold desert?",
+        "options": [
+            "Sahara",
+            "Gobi",
+            "Kalahari",
+            "Atacama"
+        ],
+        "correctAnswer": "Gobi"
+    },
+    {
+        "id": 4,
+        "questionText": "Which is the largest ocean in the world?",
+        "options": [
+            "Atlantic Ocean",
+            "Indian Ocean",
+            "Pacific Ocean",
+            "Southern Ocean"
+        ],
+        "correctAnswer": "Pacific Ocean"
+    },
+    {
+        "id": 5,
+        "questionText": "Which of the following is the highest mountain peak in the world?",
+        "options": [
+            "K2",
+            "Kanchenjunga",
+            "Mount Everest",
+            "Lhotse"
+        ],
+        "correctAnswer": "Mount Everest"
+    },
+    {
+        "id": 6,
+        "questionText": "Which of the following countries is known as the 'Land of the Rising Sun'?",
+        "options": [
+            "China",
+            "Australia",
+            "Japan",
+            "South Korea"
+        ],
+        "correctAnswer": "Japan"
+    },
+    {
+        "id": 7,
+        "questionText": "What is the capital city of Australia?",
+        "options": [
+            "Sydney",
+            "Melbourne",
+            "Canberra",
+            "Perth"
+        ],
+        "correctAnswer": "Canberra"
+    },
+    {
+        "id": 8,
+        "questionText": "Which river is known as the 'Sorrow of Bengal'?",
+        "options": [
+            "Ganga",
+            "Yamuna",
+            "Brahmaputra",
+            "Damodar"
+        ],
+        "correctAnswer": "Damodar"
+    },
+    {
+        "id": 9,
+        "questionText": "Which planet is known as the 'Blue Planet'?",
+        "options": [
+            "Mars",
+            "Venus",
+            "Earth",
+            "Neptune"
+        ],
+        "correctAnswer": "Earth"
+    },
+    {
+        "id": 10,
+        "questionText": "Which natural region is known as the 'breadbasket of the world'?",
+        "options": [
+            "Tropical Rainforests",
+            "Temperate Grasslands",
+            "Deserts",
+            "Tundra"
+        ],
+        "correctAnswer": "Temperate Grasslands"
+    }
+]
