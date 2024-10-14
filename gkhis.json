@@ -1,0 +1,366 @@
+[
+    {
+        "id": 1,
+        "questionText": "What is the capital of India?",
+        "options": [
+            "New Delhi",
+            "Mumbai",
+            "Kolkata",
+            "Chennai"
+        ],
+        "correctAnswer": "New Delhi"
+    },
+    {
+        "id": 2,
+        "questionText": "Who is known as the father of the Indian Constitution?",
+        "options": [
+            "Mahatma Gandhi",
+            "Jawaharlal Nehru",
+            "B.R. Ambedkar",
+            "Sardar Patel"
+        ],
+        "correctAnswer": "B.R. Ambedkar"
+    },
+    {
+        "id": 3,
+        "questionText": "What is the national animal of India?",
+        "options": [
+            "Lion",
+            "Elephant",
+            "Tiger",
+            "Peacock"
+        ],
+        "correctAnswer": "Tiger"
+    },
+    {
+        "id": 4,
+        "questionText": "Which planet is known as the Red Planet?",
+        "options": [
+            "Venus",
+            "Mars",
+            "Jupiter",
+            "Saturn"
+        ],
+        "correctAnswer": "Mars"
+    },
+    {
+        "id": 5,
+        "questionText": "Which is the largest continent by area?",
+        "options": [
+            "Africa",
+            "Asia",
+            "Europe",
+            "North America"
+        ],
+        "correctAnswer": "Asia"
+    },
+    {
+        "id": 6,
+        "questionText": "Who wrote the Indian national anthem?",
+        "options": [
+            "Rabindranath Tagore",
+            "Bankim Chandra Chatterjee",
+            "Subhash Chandra Bose",
+            "Sarojini Naidu"
+        ],
+        "correctAnswer": "Rabindranath Tagore"
+    },
+    {
+        "id": 7,
+        "questionText": "Which gas is essential for respiration?",
+        "options": [
+            "Nitrogen",
+            "Oxygen",
+            "Carbon Dioxide",
+            "Hydrogen"
+        ],
+        "correctAnswer": "Oxygen"
+    },
+    {
+        "id": 8,
+        "questionText": "What is the longest river in the world?",
+        "options": [
+            "Amazon",
+            "Nile",
+            "Yangtze",
+            "Mississippi"
+        ],
+        "correctAnswer": "Nile"
+    },
+    {
+        "id": 9,
+        "questionText": "Which is the largest democracy in the world?",
+        "options": [
+            "USA",
+            "India",
+            "China",
+            "Brazil"
+        ],
+        "correctAnswer": "India"
+    },
+    {
+        "id": 10,
+        "questionText": "Which country is known as the Land of the Rising Sun?",
+        "options": [
+            "China",
+            "South Korea",
+            "Japan",
+            "Thailand"
+        ],
+        "correctAnswer": "Japan"
+    },
+    {
+        "id": 11,
+        "questionText": "Who was the first President of India?",
+        "options": [
+            "Rajendra Prasad",
+            "S. Radhakrishnan",
+            "Indira Gandhi",
+            "Jawaharlal Nehru"
+        ],
+        "correctAnswer": "Rajendra Prasad"
+    },
+    {
+        "id": 12,
+        "questionText": "Which country won the 2018 FIFA World Cup?",
+        "options": [
+            "Germany",
+            "France",
+            "Brazil",
+            "Argentina"
+        ],
+        "correctAnswer": "France"
+    },
+    {
+        "id": 13,
+        "questionText": "In which year did India gain independence?",
+        "options": [
+            "1945",
+            "1947",
+            "1950",
+            "1952"
+        ],
+        "correctAnswer": "1947"
+    },
+    {
+        "id": 14,
+        "questionText": "What is the national flower of India?",
+        "options": [
+            "Rose",
+            "Lotus",
+            "Marigold",
+            "Sunflower"
+        ],
+        "correctAnswer": "Lotus"
+    },
+    {
+        "id": 15,
+        "questionText": "Which Indian scientist is known for the discovery of the Raman Effect?",
+        "options": [
+            "C.V. Raman",
+            "Homi Bhabha",
+            "A.P.J. Abdul Kalam",
+            "Jagadish Chandra Bose"
+        ],
+        "correctAnswer": "C.V. Raman"
+    },
+    {
+        "id": 16,
+        "questionText": "Who was the first man to land on the moon?",
+        "options": [
+            "Neil Armstrong",
+            "Yuri Gagarin",
+            "Buzz Aldrin",
+            "John Glenn"
+        ],
+        "correctAnswer": "Neil Armstrong"
+    },
+    {
+        "id": 17,
+        "questionText": "Which is the smallest state in India by area?",
+        "options": [
+            "Goa",
+            "Sikkim",
+            "Tripura",
+            "Nagaland"
+        ],
+        "correctAnswer": "Goa"
+    },
+    {
+        "id": 18,
+        "questionText": "Which country is known for the Great Wall?",
+        "options": [
+            "India",
+            "China",
+            "Japan",
+            "South Korea"
+        ],
+        "correctAnswer": "China"
+    },
+    {
+        "id": 19,
+        "questionText": "What is the boiling point of water at sea level?",
+        "options": [
+            "90°C",
+            "100°C",
+            "110°C",
+            "120°C"
+        ],
+        "correctAnswer": "100°C"
+    },
+    {
+        "id": 20,
+        "questionText": "Who invented the telephone?",
+        "options": [
+            "Alexander Graham Bell",
+            "Thomas Edison",
+            "Nikola Tesla",
+            "James Watt"
+        ],
+        "correctAnswer": "Alexander Graham Bell"
+    },
+    {
+        "id": 21,
+        "questionText": "Who was the founder of the Maurya Empire?",
+        "options": [
+            "Ashoka",
+            "Bindusara",
+            "Chandragupta Maurya",
+            "Bimbisara"
+        ],
+        "correctAnswer": "Chandragupta Maurya"
+    },
+    {
+        "id": 22,
+        "questionText": "Who was the first woman to become the Prime Minister of India?",
+        "options": [
+            "Sarojini Naidu",
+            "Indira Gandhi",
+            "Sushma Swaraj",
+            "Pratibha Patil"
+        ],
+        "correctAnswer": "Indira Gandhi"
+    },
+    {
+        "id": 23,
+        "questionText": "In which year was the Battle of Plassey fought?",
+        "options": [
+            "1757",
+            "1764",
+            "1789",
+            "1857"
+        ],
+        "correctAnswer": "1757"
+    },
+    {
+        "id": 24,
+        "questionText": "Who was the last Viceroy of British India?",
+        "options": [
+            "Lord Curzon",
+            "Lord Mountbatten",
+            "Lord Wavell",
+            "Lord Dalhousie"
+        ],
+        "correctAnswer": "Lord Mountbatten"
+    },
+    {
+        "id": 25,
+        "questionText": "Which movement was launched by Mahatma Gandhi in 1942?",
+        "options": [
+            "Non-Cooperation Movement",
+            "Civil Disobedience Movement",
+            "Quit India Movement",
+            "Dandi March"
+        ],
+        "correctAnswer": "Quit India Movement"
+    },
+    {
+        "id": 26,
+        "questionText": "Who was known as the 'Iron Man of India'?",
+        "options": [
+            "Jawaharlal Nehru",
+            "Sardar Vallabhbhai Patel",
+            "B.R. Ambedkar",
+            "Subhas Chandra Bose"
+        ],
+        "correctAnswer": "Sardar Vallabhbhai Patel"
+    },
+    {
+        "id": 27,
+        "questionText": "Which empire was known for the construction of the famous Iron Pillar in Delhi?",
+        "options": [
+            "Gupta Empire",
+            "Maurya Empire",
+            "Chola Empire",
+            "Mughal Empire"
+        ],
+        "correctAnswer": "Gupta Empire"
+    },
+    {
+        "id": 28,
+        "questionText": "Who was the first Mughal Emperor?",
+        "options": [
+            "Akbar",
+            "Babur",
+            "Humayun",
+            "Aurangzeb"
+        ],
+        "correctAnswer": "Babur"
+    },
+    {
+        "id": 29,
+        "questionText": "Which famous battle marked the beginning of British rule in India?",
+        "options": [
+            "Battle of Buxar",
+            "Battle of Plassey",
+            "Battle of Panipat",
+            "Battle of Mysore"
+        ],
+        "correctAnswer": "Battle of Plassey"
+    },
+    {
+        "id": 30,
+        "questionText": "Who was the ruler of the Kalinga Kingdom when Ashoka invaded?",
+        "options": [
+            "Chandragupta Maurya",
+            "Bindusara",
+            "King Porus",
+            "King Anantha"
+        ],
+        "correctAnswer": "King Anantha"
+    },
+    {
+        "id": 31,
+        "questionText": "Which British Governor-General introduced the Doctrine of Lapse?",
+        "options": [
+            "Lord Dalhousie",
+            "Lord Curzon",
+            "Lord Wellesley",
+            "Lord Hastings"
+        ],
+        "correctAnswer": "Lord Dalhousie"
+    },
+    {
+        "id": 32,
+        "questionText": "Who was the first woman ruler of Delhi?",
+        "options": [
+            "Razia Sultan",
+            "Nur Jahan",
+            "Jahanara Begum",
+            "Rani Laxmi Bai"
+        ],
+        "correctAnswer": "Razia Sultan"
+    },
+    {
+        "id": 33,
+        "questionText": "Which Indian King was known as the 'Napoleon of India'?",
+        "options": [
+            "Ashoka",
+            "Samudragupta",
+            "Harsha",
+            "Chandragupta II"
+        ],
+        "correctAnswer": "Samudragupta"
+    },
+    {
+        "id": 34,
