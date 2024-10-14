@@ -9,7 +9,7 @@
               "Paris",
               "Lisbon"
           ],
-          "answer": "Paris"
+          "correctAnswer": "Paris"
       },
       {
           "id": "2",
@@ -20,7 +20,7 @@
               "Jupiter",
               "Saturn"
           ],
-          "answer": "Mars"
+          "correctAnswer": "Mars"
       },
       {
           "id": "3",
@@ -31,7 +31,7 @@
               "Austen",
               "Tolstoy"
           ],
-          "answer": "Shakespeare"
+          "correctAnswer": "Shakespeare"
       }
   
     ]
