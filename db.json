@@ -1,16 +1,6 @@
 [
-  {
-    "id": "1",
-    "questionText": "What is the capital of France?",
-    "options": [
-      "Berlin",
-      "Madrid",
-      "Paris",
-      "Lisbon"
-    ],
-    "correctAnswer": "Paris"
-  },
-  {
+ 
+   { "id": "1",
     "questionText": "What is the capital of France?",
     "options": [
       "Berlin",
@@ -20,7 +10,7 @@
     ],
     "correctAnswer": "Paris"
   },
-  {
+   { "id": "2",
     "questionText": "Which planet is known as the Red Planet?",
     "options": [
       "Earth",
@@ -30,7 +20,7 @@
     ],
     "correctAnswer": "Mars"
   },
-  {
+   { "id": "3",
     "questionText": "Who wrote 'Romeo and Juliet'?",
     "options": [
       "Charles Dickens",
@@ -40,7 +30,7 @@
     ],
     "correctAnswer": "William Shakespeare"
   },
-  {
+   { "id": "4",
     "questionText": "What is the largest mammal in the world?",
     "options": [
       "Elephant",
@@ -50,7 +40,7 @@
     ],
     "correctAnswer": "Blue Whale"
   },
-  {
+   { "id": "5", 
     "questionText": "What is the chemical symbol for gold?",
     "options": [
       "Au",
@@ -60,7 +50,7 @@
     ],
     "correctAnswer": "Au"
   },
-  {
+   { "id": "6",
     "questionText": "What year did the Titanic sink?",
     "options": [
       "1905",
@@ -70,7 +60,7 @@
     ],
     "correctAnswer": "1912"
   },
-  {
+   { "id": "7",
     "questionText": "Which element has the atomic number 1?",
     "options": [
       "Oxygen",
@@ -80,7 +70,7 @@
     ],
     "correctAnswer": "Hydrogen"
   },
-  {
+   { "id": "8",
     "questionText": "Who painted the Mona Lisa?",
     "options": [
       "Vincent Van Gogh",
@@ -90,7 +80,7 @@
     ],
     "correctAnswer": "Leonardo da Vinci"
   },
-  {
+   { "id": "9",
     "questionText": "What is the smallest continent by land area?",
     "options": [
       "Australia",
@@ -100,7 +90,7 @@
     ],
     "correctAnswer": "Australia"
   },
-  {
+   { "id": "10",
     "questionText": "In what year did World War II end?",
     "options": [
       "1942",
@@ -110,7 +100,7 @@
     ],
     "correctAnswer": "1945"
   },
-  {
+   { "id": "11",
     "questionText": "What is the main ingredient in guacamole?",
     "options": [
       "Tomato",
@@ -120,7 +110,7 @@
     ],
     "correctAnswer": "Avocado"
   },
-  {
+   { "id": "12",
     "questionText": "Who discovered penicillin?",
     "options": [
       "Marie Curie",
@@ -130,7 +120,7 @@
     ],
     "correctAnswer": "Alexander Fleming"
   },
-  {
+   { "id": "13",
     "questionText": "What is the currency of Japan?",
     "options": [
       "Yuan",
@@ -140,7 +130,7 @@
     ],
     "correctAnswer": "Yen"
   },
-  {
+   { "id": "14",
     "questionText": "Which gas do plants absorb from the atmosphere?",
     "options": [
       "Oxygen",
@@ -150,7 +140,7 @@
     ],
     "correctAnswer": "Carbon Dioxide"
   },
-  {
+   { "id": "15",
     "questionText": "What is the longest river in the world?",
     "options": [
       "Amazon",
@@ -160,7 +150,7 @@
     ],
     "correctAnswer": "Nile"
   },
-  {
+   { "id": "16",
     "questionText": "Who was the first man to walk on the moon?",
     "options": [
       "Buzz Aldrin",
@@ -170,7 +160,7 @@
     ],
     "correctAnswer": "Neil Armstrong"
   },
-  {
+   { "id": "17",
     "questionText": "What is the hardest natural substance on Earth?",
     "options": [
       "Gold",
@@ -180,7 +170,7 @@
     ],
     "correctAnswer": "Diamond"
   },
-  {
+   { "id": "18",
     "questionText": "Which country is known as the Land of the Rising Sun?",
     "options": [
       "China",
@@ -190,7 +180,7 @@
     ],
     "correctAnswer": "Japan"
   },
-  {
+   { "id": "19",
     "questionText": "In which city is the Statue of Liberty located?",
     "options": [
       "Los Angeles",
@@ -200,7 +190,7 @@
     ],
     "correctAnswer": "New York"
   },
-  {
+   { "id": "20",
     "questionText": "Which organ in the human body is primarily responsible for detoxification?",
     "options": [
       "Heart",
@@ -210,7 +200,7 @@
     ],
     "correctAnswer": "Liver"
   },
-  {
+   { "id": "21",
     "questionText": "What is the largest ocean on Earth?",
     "options": [
       "Atlantic Ocean",
@@ -220,7 +210,7 @@
     ],
     "correctAnswer": "Pacific Ocean"
   },
-  {
+   { "id": "22",
     "questionText": "What is the capital of Australia?",
     "options": [
       "Sydney",
@@ -230,7 +220,7 @@
     ],
     "correctAnswer": "Canberra"
   },
-  {
+   { "id": "23",
     "questionText": "What is the square root of 64?",
     "options": [
       "6",
@@ -240,7 +230,7 @@
     ],
     "correctAnswer": "8"
   },
-  {
+   { "id": "24",
     "questionText": "Which country is home to the kangaroo?",
     "options": [
       "New Zealand",
@@ -250,7 +240,7 @@
     ],
     "correctAnswer": "Australia"
   },
-  {
+   { "id": "25",
     "questionText": "Which famous scientist developed the theory of relativity?",
     "options": [
       "Isaac Newton",
@@ -260,7 +250,7 @@
     ],
     "correctAnswer": "Albert Einstein"
   },
-  {
+   { "id": "26",
     "questionText": "What is the capital city of Canada?",
     "options": [
       "Toronto",
@@ -270,7 +260,7 @@
     ],
     "correctAnswer": "Ottawa"
   },
-  {
+   { "id": "27",
     "questionText": "What is the most spoken language in the world?",
     "options": [
       "English",
@@ -280,7 +270,7 @@
     ],
     "correctAnswer": "Mandarin Chinese"
   },
-  {
+   { "id": "28",
     "questionText": "Who is known as the 'Father of Modern Physics'?",
     "options": [
       "Niels Bohr",
@@ -290,7 +280,7 @@
     ],
     "correctAnswer": "Albert Einstein"
   },
-  {
+   { "id": "29",
     "questionText": "What is the capital of Italy?",
     "options": [
       "Venice",
@@ -300,7 +290,7 @@
     ],
     "correctAnswer": "Rome"
   },
-  {
+   { "id": "30",
     "questionText": "Which element is essential for human respiration?",
     "options": [
       "Nitrogen",
@@ -310,7 +300,7 @@
     ],
     "correctAnswer": "Oxygen"
   },
-  {
+   { "id": "31",
     "questionText": "What is the name of the fairy in Peter Pan?",
     "options": [
       "Tinker Bell",
@@ -320,7 +310,7 @@
     ],
     "correctAnswer": "Tinker Bell"
   },
-  {
+   { "id": "32",
     "questionText": "Which instrument is used to measure atmospheric pressure?",
     "options": [
       "Thermometer",
