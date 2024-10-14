@@ -1,442 +1,442 @@
 [
     {
         "id": 1,
-        "question": "Which is the longest river in the world?",
+        "questionText": "Which is the longest river in the world?",
         "options": [
             "Amazon",
             "Nile",
             "Yangtze",
             "Mississippi"
         ],
-        "correct_answer": "Nile"
+        "correctAnswer": "Nile"
     },
     {
         "id": 2,
-        "question": "What is the capital of Australia?",
+        "questionText": "What is the capital of Australia?",
         "options": [
             "Sydney",
             "Melbourne",
             "Perth",
             "Canberra"
         ],
-        "correct_answer": "Canberra"
+        "correctAnswer": "Canberra"
     },
     {
         "id": 3,
-        "question": "Which is the largest desert in the world?",
+        "questionText": "Which is the largest desert in the world?",
         "options": [
             "Sahara",
             "Gobi",
             "Kalahari",
             "Antarctic Desert"
         ],
-        "correct_answer": "Antarctic Desert"
+        "correctAnswer": "Antarctic Desert"
     },
     {
         "id": 4,
-        "question": "Which ocean is the largest by surface area?",
+        "questionText": "Which ocean is the largest by surface area?",
         "options": [
             "Atlantic Ocean",
             "Indian Ocean",
             "Arctic Ocean",
             "Pacific Ocean"
         ],
-        "correct_answer": "Pacific Ocean"
+        "correctAnswer": "Pacific Ocean"
     },
     {
         "id": 5,
-        "question": "What is the most populous country in the world?",
+        "questionText": "What is the most populous country in the world?",
         "options": [
             "India",
             "USA",
             "China",
             "Indonesia"
         ],
-        "correct_answer": "China"
+        "correctAnswer": "China"
     },
     {
         "id": 6,
-        "question": "Which country is known as the 'Land of the Midnight Sun'?",
+        "questionText": "Which country is known as the 'Land of the Midnight Sun'?",
         "options": [
             "Norway",
             "Sweden",
             "Finland",
             "Canada"
         ],
-        "correct_answer": "Norway"
+        "correctAnswer": "Norway"
     },
     {
         "id": 7,
-        "question": "Which river flows through Paris?",
+        "questionText": "Which river flows through Paris?",
         "options": [
             "Thames",
             "Seine",
             "Danube",
             "Rhine"
         ],
-        "correct_answer": "Seine"
+        "correctAnswer": "Seine"
     },
     {
         "id": 8,
-        "question": "Which is the largest continent by area?",
+        "questionText": "Which is the largest continent by area?",
         "options": [
             "Africa",
             "North America",
             "Asia",
             "Europe"
         ],
-        "correct_answer": "Asia"
+        "correctAnswer": "Asia"
     },
     {
         "id": 9,
-        "question": "Which country has the largest number of active volcanoes?",
+        "questionText": "Which country has the largest number of active volcanoes?",
         "options": [
             "Japan",
             "Indonesia",
             "USA",
             "Philippines"
         ],
-        "correct_answer": "Indonesia"
+        "correctAnswer": "Indonesia"
     },
     {
         "id": 10,
-        "question": "Which is the highest mountain in the world?",
+        "questionText": "Which is the highest mountain in the world?",
         "options": [
             "K2",
             "Mount Everest",
             "Kangchenjunga",
             "Lhotse"
         ],
-        "correct_answer": "Mount Everest"
+        "correctAnswer": "Mount Everest"
     },
     {
         "id": 11,
-        "question": "What is the largest island in the world?",
+        "questionText": "What is the largest island in the world?",
         "options": [
             "Greenland",
             "Borneo",
             "Madagascar",
             "Iceland"
         ],
-        "correct_answer": "Greenland"
+        "correctAnswer": "Greenland"
     },
     {
         "id": 12,
-        "question": "Which country is known as the ‘Land of the Rising Sun’?",
+        "questionText": "Which country is known as the ‘Land of the Rising Sun’?",
         "options": [
             "China",
             "South Korea",
             "Japan",
             "Thailand"
         ],
-        "correct_answer": "Japan"
+        "correctAnswer": "Japan"
     },
     {
         "id": 13,
-        "question": "Which is the smallest country by area?",
+        "questionText": "Which is the smallest country by area?",
         "options": [
             "Monaco",
             "San Marino",
             "Liechtenstein",
             "Vatican City"
         ],
-        "correct_answer": "Vatican City"
+        "correctAnswer": "Vatican City"
     },
     {
         "id": 14,
-        "question": "Which country has the longest coastline?",
+        "questionText": "Which country has the longest coastline?",
         "options": [
             "Russia",
             "Canada",
             "Australia",
             "USA"
         ],
-        "correct_answer": "Canada"
+        "correctAnswer": "Canada"
     },
     {
         "id": 15,
-        "question": "Which ocean surrounds the Maldives?",
+        "questionText": "Which ocean surrounds the Maldives?",
         "options": [
             "Atlantic Ocean",
             "Pacific Ocean",
             "Indian Ocean",
             "Arctic Ocean"
         ],
-        "correct_answer": "Indian Ocean"
+        "correctAnswer": "Indian Ocean"
     },
     {
         "id": 16,
-        "question": "Which is the largest freshwater lake by surface area?",
+        "questionText": "Which is the largest freshwater lake by surface area?",
         "options": [
             "Lake Superior",
             "Lake Victoria",
             "Lake Baikal",
             "Caspian Sea"
         ],
-        "correct_answer": "Lake Superior"
+        "correctAnswer": "Lake Superior"
     },
     {
         "id": 17,
-        "question": "Which strait separates Europe from Africa?",
+        "questionText": "Which strait separates Europe from Africa?",
         "options": [
             "Strait of Hormuz",
             "Bering Strait",
             "Strait of Gibraltar",
             "Bosporus Strait"
         ],
-        "correct_answer": "Strait of Gibraltar"
+        "correctAnswer": "Strait of Gibraltar"
     },
     {
         "id": 18,
-        "question": "Which country shares the longest border with India?",
+        "questionText": "Which country shares the longest border with India?",
         "options": [
             "China",
             "Bangladesh",
             "Pakistan",
             "Nepal"
         ],
-        "correct_answer": "Bangladesh"
+        "correctAnswer": "Bangladesh"
     },
     {
         "id": 19,
-        "question": "Which is the second-largest continent by population?",
+        "questionText": "Which is the second-largest continent by population?",
         "options": [
             "Africa",
             "Asia",
             "Europe",
             "North America"
         ],
-        "correct_answer": "Africa"
+        "correctAnswer": "Africa"
     },
     {
         "id": 20,
-        "question": "Which river forms the Grand Canyon in the USA?",
+        "questionText": "Which river forms the Grand Canyon in the USA?",
         "options": [
             "Colorado River",
             "Mississippi River",
             "Missouri River",
             "Rio Grande"
         ],
-        "correct_answer": "Colorado River"
+        "correctAnswer": "Colorado River"
     },
     {
         "id": 21,
-        "question": "What is the largest desert in India?",
+        "questionText": "What is the largest desert in India?",
         "options": [
             "Rann of Kutch",
             "Thar Desert",
             "Ladakh",
             "Spiti Valley"
         ],
-        "correct_answer": "Thar Desert"
+        "correctAnswer": "Thar Desert"
     },
     {
         "id": 22,
-        "question": "Which ocean current is the longest in the world?",
+        "questionText": "Which ocean current is the longest in the world?",
         "options": [
             "Gulf Stream",
             "Kuroshio Current",
             "California Current",
             "Antarctic Circumpolar Current"
         ],
-        "correct_answer": "Antarctic Circumpolar Current"
+        "correctAnswer": "Antarctic Circumpolar Current"
     },
     {
         "id": 23,
-        "question": "Which mountain range separates Europe and Asia?",
+        "questionText": "Which mountain range separates Europe and Asia?",
         "options": [
             "Himalayas",
             "Andes",
             "Rockies",
             "Ural Mountains"
         ],
-        "correct_answer": "Ural Mountains"
+        "correctAnswer": "Ural Mountains"
     },
     {
         "id": 24,
-        "question": "Which country is known for its fjords?",
+        "questionText": "Which country is known for its fjords?",
         "options": [
             "Norway",
             "Sweden",
             "Iceland",
             "Denmark"
         ],
-        "correct_answer": "Norway"
+        "correctAnswer": "Norway"
     },
     {
         "id": 25,
-        "question": "Which Indian river is also known as the ‘Sorrow of Bengal’?",
+        "questionText": "Which Indian river is also known as the ‘Sorrow of Bengal’?",
         "options": [
             "Ganga",
             "Yamuna",
             "Damodar",
             "Brahmaputra"
         ],
-        "correct_answer": "Damodar"
+        "correctAnswer": "Damodar"
     },
     {
         "id": 26,
-        "question": "What is the deepest point in the ocean?",
+        "questionText": "What is the deepest point in the ocean?",
         "options": [
             "Mariana Trench",
             "Puerto Rico Trench",
             "Java Trench",
             "Tonga Trench"
         ],
-        "correct_answer": "Mariana Trench"
+        "correctAnswer": "Mariana Trench"
     },
     {
         "id": 27,
-        "question": "Which country is the leading producer of coffee?",
+        "questionText": "Which country is the leading producer of coffee?",
         "options": [
             "Brazil",
             "Colombia",
             "Vietnam",
             "India"
         ],
-        "correct_answer": "Brazil"
+        "correctAnswer": "Brazil"
     },
     {
         "id": 28,
-        "question": "Which river is considered the holiest in Hinduism?",
+        "questionText": "Which river is considered the holiest in Hinduism?",
         "options": [
             "Ganga",
             "Yamuna",
             "Godavari",
             "Krishna"
         ],
-        "correct_answer": "Ganga"
+        "correctAnswer": "Ganga"
     },
     {
         "id": 29,
-        "question": "Which is the only continent without a desert?",
+        "questionText": "Which is the only continent without a desert?",
         "options": [
             "Europe",
             "Australia",
             "South America",
             "Asia"
         ],
-        "correct_answer": "Europe"
+        "correctAnswer": "Europe"
     },
     {
         "id": 30,
-        "question": "Which of the following countries does the Tropic of Cancer not pass through?",
+        "questionText": "Which of the following countries does the Tropic of Cancer not pass through?",
         "options": [
             "India",
             "Mexico",
             "Saudi Arabia",
             "Australia"
         ],
-        "correct_answer": "Australia"
+        "correctAnswer": "Australia"
     },
     {
         "id": 31,
-        "question": "Which country is the largest producer of tea in the world?",
+        "questionText": "Which country is the largest producer of tea in the world?",
         "options": [
             "India",
             "China",
             "Sri Lanka",
             "Kenya"
         ],
-        "correct_answer": "China"
+        "correctAnswer": "China"
     },
     {
         "id": 32,
-        "question": "Which desert is known as the cold desert?",
+        "questionText": "Which desert is known as the cold desert?",
         "options": [
             "Sahara Desert",
             "Thar Desert",
             "Gobi Desert",
             "Atacama Desert"
         ],
-        "correct_answer": "Gobi Desert"
+        "correctAnswer": "Gobi Desert"
     },
     {
         "id": 33,
-        "question": "What is the term for a narrow stretch of land connecting two larger landmasses?",
+        "questionText": "What is the term for a narrow stretch of land connecting two larger landmasses?",
         "options": [
             "Isthmus",
             "Peninsula",
             "Strait",
             "Delta"
         ],
-        "correct_answer": "Isthmus"
+        "correctAnswer": "Isthmus"
     },
     {
         "id": 34,
-        "question": "Which river is known as the lifeline of Egypt?",
+        "questionText": "Which river is known as the lifeline of Egypt?",
         "options": [
             "Nile",
             "Amazon",
             "Tigris",
             "Indus"
         ],
-        "correct_answer": "Nile"
+        "correctAnswer": "Nile"
     },
     {
         "id": 35,
-        "question": "Which country is the largest producer of diamonds?",
+        "questionText": "Which country is the largest producer of diamonds?",
         "options": [
             "Russia",
             "India",
             "South Africa",
             "Botswana"
         ],
-        "correct_answer": "Russia"
+        "correctAnswer": "Russia"
     },
     {
         "id": 36,
-        "question": "Which river is the longest in India?",
+        "questionText": "Which river is the longest in India?",
         "options": [
             "Yamuna",
             "Godavari",
             "Narmada",
             "Ganga"
         ],
-        "correct_answer": "Ganga"
+        "correctAnswer": "Ganga"
     },
     {
         "id": 37,
-        "question": "Which sea separates Europe and Africa?",
+        "questionText": "Which sea separates Europe and Africa?",
         "options": [
             "Mediterranean Sea",
             "Red Sea",
             "Black Sea",
             "Caspian Sea"
         ],
-        "correct_answer": "Mediterranean Sea"
+        "correctAnswer": "Mediterranean Sea"
     },
     {
         "id": 38,
-        "question": "Which country is the largest producer of rice?",
+        "questionText": "Which country is the largest producer of rice?",
         "options": [
             "India",
             "Vietnam",
             "China",
             "Thailand"
         ],
-        "correct_answer": "China"
+        "correctAnswer": "China"
     },
     {
         "id": 39,
-        "question": "Which country is known as the 'Land of a Thousand Lakes'?",
+        "questionText": "Which country is known as the 'Land of a Thousand Lakes'?",
         "options": [
             "Sweden",
             "Norway",
             "Finland",
             "Canada"
         ],
-        "correct_answer": "Finland"
+        "correctAnswer": "Finland"
     },
     {
         "id": 40,
-        "question": "What is the smallest ocean in the world?",
+        "questionText": "What is the smallest ocean in the world?",
         "options": [
             "Atlantic Ocean",
             "Indian Ocean",
             "Arctic Ocean",
             "Pacific Ocean"
         ],
-        "correct_answer": "Arctic Ocean"
+        "correctAnswer": "Arctic Ocean"
     }
 ]
