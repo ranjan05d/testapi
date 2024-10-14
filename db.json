@@ -1,40 +1,37 @@
-
 {
   "questions": [
-    
-    {
-      "id": "1",
-      "questionText": "What is the capital of France?",
-      "options": [
-        "Berlin",
-        "Madrid",
-        "Paris",
-        "Lisbon"
-      ],
-      "answer": "Paris"
-    },
-    {
-      "id": 2,
-      "questionText": "Which planet is known as the Red Planet?",
-      "options": [
-        "Earth",
-        "Mars",
-        "Jupiter",
-        "Saturn"
-      ],
-      "answer": "Mars"
-    },
-    {
-      "id": 3,
-      "questionText": "Who wrote 'Hamlet'?",
-      "options": [
-        "Shakespeare",
-        "Hemingway",
-        "Austen",
-        "Tolstoy"
-      ],
-      "answer": "Shakespeare"
-    }
+      {
+          "id": "1",
+          "questionText": "What is the capital of France?",
+          "options": [
+              "Berlin",
+              "Madrid",
+              "Paris",
+              "Lisbon"
+          ],
+          "answer": "Paris"
+      },
+      {
+          "id": "2",
+          "questionText": "Which planet is known as the Red Planet?",
+          "options": [
+              "Earth",
+              "Mars",
+              "Jupiter",
+              "Saturn"
+          ],
+          "answer": "Mars"
+      },
+      {
+          "id": "3",
+          "questionText": "Who wrote 'Hamlet'?",
+          "options": [
+              "Shakespeare",
+              "Hemingway",
+              "Austen",
+              "Tolstoy"
+          ],
+          "answer": "Shakespeare"
+      }
   ]
 }
-
