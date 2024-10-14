@@ -1,5 +1,5 @@
-{
-  "questions": [
+[
+ 
       {
           "id": "1",
           "questionText": "What is the capital of France?",
@@ -33,5 +33,5 @@
           ],
           "answer": "Shakespeare"
       }
-  ]
-}
+  
+    ]
