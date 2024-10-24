@@ -1,366 +1,332 @@
 [
     {
         "id": 1,
-        "questionText": "What is the capital of India?",
+        "questionText": "Who was the first President of the United States?",
         "options": [
-            "New Delhi",
-            "Mumbai",
-            "Kolkata",
-            "Chennai"
+            "Abraham Lincoln",
+            "George Washington",
+            "John Adams",
+            "Thomas Jefferson"
         ],
-        "correctAnswer": "New Delhi"
+        "correctAnswer": "George Washington"
     },
     {
         "id": 2,
-        "questionText": "Who is known as the father of the Indian Constitution?",
-        "options": [
-            "Mahatma Gandhi",
-            "Jawaharlal Nehru",
-            "B.R. Ambedkar",
-            "Sardar Patel"
-        ],
-        "correctAnswer": "B.R. Ambedkar"
-    },
-    {
-        "id": 3,
-        "questionText": "What is the national animal of India?",
-        "options": [
-            "Lion",
-            "Elephant",
-            "Tiger",
-            "Peacock"
-        ],
-        "correctAnswer": "Tiger"
-    },
-    {
-        "id": 4,
         "questionText": "Which planet is known as the Red Planet?",
         "options": [
+            "Earth",
             "Venus",
             "Mars",
-            "Jupiter",
-            "Saturn"
+            "Jupiter"
         ],
         "correctAnswer": "Mars"
     },
     {
+        "id": 3,
+        "questionText": "In which year did World War II end?",
+        "options": [
+            "1945",
+            "1918",
+            "1939",
+            "1950"
+        ],
+        "correctAnswer": "1945"
+    },
+    {
+        "id": 4,
+        "questionText": "What is the hardest natural substance on Earth?",
+        "options": [
+            "Gold",
+            "Iron",
+            "Diamond",
+            "Silver"
+        ],
+        "correctAnswer": "Diamond"
+    },
+    {
         "id": 5,
-        "questionText": "Which is the largest continent by area?",
+        "questionText": "Which element is represented by the symbol 'O'?",
         "options": [
-            "Africa",
-            "Asia",
-            "Europe",
-            "North America"
-        ],
-        "correctAnswer": "Asia"
-    },
-    {
-        "id": 6,
-        "questionText": "Who wrote the Indian national anthem?",
-        "options": [
-            "Rabindranath Tagore",
-            "Bankim Chandra Chatterjee",
-            "Subhash Chandra Bose",
-            "Sarojini Naidu"
-        ],
-        "correctAnswer": "Rabindranath Tagore"
-    },
-    {
-        "id": 7,
-        "questionText": "Which gas is essential for respiration?",
-        "options": [
-            "Nitrogen",
             "Oxygen",
-            "Carbon Dioxide",
-            "Hydrogen"
+            "Osmium",
+            "Oganesson",
+            "Oxide"
         ],
         "correctAnswer": "Oxygen"
     },
     {
-        "id": 8,
-        "questionText": "What is the longest river in the world?",
+        "id": 6,
+        "questionText": "Who wrote the play 'Romeo and Juliet'?",
         "options": [
-            "Amazon",
-            "Nile",
-            "Yangtze",
-            "Mississippi"
+            "Charles Dickens",
+            "Mark Twain",
+            "William Shakespeare",
+            "George Orwell"
         ],
-        "correctAnswer": "Nile"
+        "correctAnswer": "William Shakespeare"
+    },
+    {
+        "id": 7,
+        "questionText": "What is the capital city of Germany?",
+        "options": [
+            "Berlin",
+            "Munich",
+            "Frankfurt",
+            "Hamburg"
+        ],
+        "correctAnswer": "Berlin"
+    },
+    {
+        "id": 8,
+        "questionText": "Which is the smallest bone in the human body?",
+        "options": [
+            "Femur",
+            "Stapes",
+            "Fibula",
+            "Humerus"
+        ],
+        "correctAnswer": "Stapes"
     },
     {
         "id": 9,
-        "questionText": "Which is the largest democracy in the world?",
+        "questionText": "Who discovered penicillin?",
         "options": [
-            "USA",
-            "India",
-            "China",
-            "Brazil"
+            "Marie Curie",
+            "Alexander Fleming",
+            "Louis Pasteur",
+            "Isaac Newton"
         ],
-        "correctAnswer": "India"
+        "correctAnswer": "Alexander Fleming"
     },
     {
         "id": 10,
-        "questionText": "Which country is known as the Land of the Rising Sun?",
+        "questionText": "What is the largest mammal in the world?",
         "options": [
-            "China",
-            "South Korea",
-            "Japan",
-            "Thailand"
+            "African Elephant",
+            "Blue Whale",
+            "Great White Shark",
+            "Giraffe"
         ],
-        "correctAnswer": "Japan"
+        "correctAnswer": "Blue Whale"
     },
     {
         "id": 11,
-        "questionText": "Who was the first President of India?",
+        "questionText": "Which metal is primarily used in the manufacture of steel?",
         "options": [
-            "Rajendra Prasad",
-            "S. Radhakrishnan",
-            "Indira Gandhi",
-            "Jawaharlal Nehru"
+            "Aluminum",
+            "Copper",
+            "Iron",
+            "Lead"
         ],
-        "correctAnswer": "Rajendra Prasad"
+        "correctAnswer": "Iron"
     },
     {
         "id": 12,
-        "questionText": "Which country won the 2018 FIFA World Cup?",
+        "questionText": "Which country is the largest producer of coffee in the world?",
         "options": [
+            "India",
+            "Colombia",
+            "Vietnam",
+            "Brazil"
+        ],
+        "correctAnswer": "Brazil"
+    },
+    {
+        "id": 13,
+        "questionText": "In which country would you find the Eiffel Tower?",
+        "options": [
+            "Spain",
             "Germany",
             "France",
-            "Brazil",
-            "Argentina"
+            "Italy"
         ],
         "correctAnswer": "France"
     },
     {
-        "id": 13,
-        "questionText": "In which year did India gain independence?",
-        "options": [
-            "1945",
-            "1947",
-            "1950",
-            "1952"
-        ],
-        "correctAnswer": "1947"
-    },
-    {
         "id": 14,
-        "questionText": "What is the national flower of India?",
+        "questionText": "Who painted the Mona Lisa?",
         "options": [
-            "Rose",
-            "Lotus",
-            "Marigold",
-            "Sunflower"
+            "Vincent van Gogh",
+            "Pablo Picasso",
+            "Michelangelo",
+            "Leonardo da Vinci"
         ],
-        "correctAnswer": "Lotus"
+        "correctAnswer": "Leonardo da Vinci"
     },
     {
         "id": 15,
-        "questionText": "Which Indian scientist is known for the discovery of the Raman Effect?",
+        "questionText": "What is the currency of Japan?",
         "options": [
-            "C.V. Raman",
-            "Homi Bhabha",
-            "A.P.J. Abdul Kalam",
-            "Jagadish Chandra Bose"
+            "Dollar",
+            "Yuan",
+            "Yen",
+            "Won"
         ],
-        "correctAnswer": "C.V. Raman"
+        "correctAnswer": "Yen"
     },
     {
         "id": 16,
-        "questionText": "Who was the first man to land on the moon?",
+        "questionText": "Which country hosted the 2016 Summer Olympics?",
         "options": [
-            "Neil Armstrong",
+            "China",
+            "Brazil",
+            "United Kingdom",
+            "Greece"
+        ],
+        "correctAnswer": "Brazil"
+    },
+    {
+        "id": 17,
+        "questionText": "Who is the author of the 'Harry Potter' series?",
+        "options": [
+            "J.R.R. Tolkien",
+            "J.K. Rowling",
+            "George R.R. Martin",
+            "Stephen King"
+        ],
+        "correctAnswer": "J.K. Rowling"
+    },
+    {
+        "id": 18,
+        "questionText": "Which is the highest mountain in Africa?",
+        "options": [
+            "Mount Kilimanjaro",
+            "Mount Everest",
+            "Mount Elgon",
+            "Mount Kenya"
+        ],
+        "correctAnswer": "Mount Kilimanjaro"
+    },
+    {
+        "id": 19,
+        "questionText": "Which planet is closest to the Sun?",
+        "options": [
+            "Venus",
+            "Earth",
+            "Mars",
+            "Mercury"
+        ],
+        "correctAnswer": "Mercury"
+    },
+    {
+        "id": 20,
+        "questionText": "Who was the first man to step on the Moon?",
+        "options": [
             "Yuri Gagarin",
             "Buzz Aldrin",
+            "Neil Armstrong",
             "John Glenn"
         ],
         "correctAnswer": "Neil Armstrong"
     },
     {
-        "id": 17,
-        "questionText": "Which is the smallest state in India by area?",
-        "options": [
-            "Goa",
-            "Sikkim",
-            "Tripura",
-            "Nagaland"
-        ],
-        "correctAnswer": "Goa"
-    },
-    {
-        "id": 18,
-        "questionText": "Which country is known for the Great Wall?",
-        "options": [
-            "India",
-            "China",
-            "Japan",
-            "South Korea"
-        ],
-        "correctAnswer": "China"
-    },
-    {
-        "id": 19,
-        "questionText": "What is the boiling point of water at sea level?",
-        "options": [
-            "90°C",
-            "100°C",
-            "110°C",
-            "120°C"
-        ],
-        "correctAnswer": "100°C"
-    },
-    {
-        "id": 20,
-        "questionText": "Who invented the telephone?",
-        "options": [
-            "Alexander Graham Bell",
-            "Thomas Edison",
-            "Nikola Tesla",
-            "James Watt"
-        ],
-        "correctAnswer": "Alexander Graham Bell"
-    },
-    {
         "id": 21,
-        "questionText": "Who was the founder of the Maurya Empire?",
+        "questionText": "In which year did the Titanic sink?",
         "options": [
-            "Ashoka",
-            "Bindusara",
-            "Chandragupta Maurya",
-            "Bimbisara"
+            "1910",
+            "1912",
+            "1914",
+            "1916"
         ],
-        "correctAnswer": "Chandragupta Maurya"
+        "correctAnswer": "1912"
     },
     {
         "id": 22,
-        "questionText": "Who was the first woman to become the Prime Minister of India?",
+        "questionText": "What is the national flower of Japan?",
         "options": [
-            "Sarojini Naidu",
-            "Indira Gandhi",
-            "Sushma Swaraj",
-            "Pratibha Patil"
+            "Rose",
+            "Tulip",
+            "Cherry Blossom",
+            "Lily"
         ],
-        "correctAnswer": "Indira Gandhi"
+        "correctAnswer": "Cherry Blossom"
     },
     {
         "id": 23,
-        "questionText": "In which year was the Battle of Plassey fought?",
+        "questionText": "Which is the smallest planet in our solar system?",
         "options": [
-            "1757",
-            "1764",
-            "1789",
-            "1857"
+            "Mars",
+            "Venus",
+            "Mercury",
+            "Neptune"
         ],
-        "correctAnswer": "1757"
+        "correctAnswer": "Mercury"
     },
     {
         "id": 24,
-        "questionText": "Who was the last Viceroy of British India?",
+        "questionText": "What is the chemical symbol for Gold?",
         "options": [
-            "Lord Curzon",
-            "Lord Mountbatten",
-            "Lord Wavell",
-            "Lord Dalhousie"
+            "Gd",
+            "Au",
+            "Ag",
+            "Go"
         ],
-        "correctAnswer": "Lord Mountbatten"
+        "correctAnswer": "Au"
     },
     {
         "id": 25,
-        "questionText": "Which movement was launched by Mahatma Gandhi in 1942?",
+        "questionText": "Which ocean is the largest?",
         "options": [
-            "Non-Cooperation Movement",
-            "Civil Disobedience Movement",
-            "Quit India Movement",
-            "Dandi March"
+            "Atlantic Ocean",
+            "Indian Ocean",
+            "Arctic Ocean",
+            "Pacific Ocean"
         ],
-        "correctAnswer": "Quit India Movement"
+        "correctAnswer": "Pacific Ocean"
     },
     {
         "id": 26,
-        "questionText": "Who was known as the 'Iron Man of India'?",
+        "questionText": "Which country is the origin of the sport 'Tennis'?",
         "options": [
-            "Jawaharlal Nehru",
-            "Sardar Vallabhbhai Patel",
-            "B.R. Ambedkar",
-            "Subhas Chandra Bose"
+            "USA",
+            "France",
+            "England",
+            "Spain"
         ],
-        "correctAnswer": "Sardar Vallabhbhai Patel"
+        "correctAnswer": "England"
     },
     {
         "id": 27,
-        "questionText": "Which empire was known for the construction of the famous Iron Pillar in Delhi?",
+        "questionText": "What is the most widely spoken language in the world?",
         "options": [
-            "Gupta Empire",
-            "Maurya Empire",
-            "Chola Empire",
-            "Mughal Empire"
+            "Spanish",
+            "English",
+            "Mandarin Chinese",
+            "Hindi"
         ],
-        "correctAnswer": "Gupta Empire"
+        "correctAnswer": "Mandarin Chinese"
     },
     {
         "id": 28,
-        "questionText": "Who was the first Mughal Emperor?",
+        "questionText": "Which country is known as the Land of the Midnight Sun?",
         "options": [
-            "Akbar",
-            "Babur",
-            "Humayun",
-            "Aurangzeb"
+            "Norway",
+            "Sweden",
+            "Canada",
+            "Russia"
         ],
-        "correctAnswer": "Babur"
+        "correctAnswer": "Norway"
     },
     {
         "id": 29,
-        "questionText": "Which famous battle marked the beginning of British rule in India?",
+        "questionText": "What is the square root of 64?",
         "options": [
-            "Battle of Buxar",
-            "Battle of Plassey",
-            "Battle of Panipat",
-            "Battle of Mysore"
+            "6",
+            "7",
+            "8",
+            "9"
         ],
-        "correctAnswer": "Battle of Plassey"
+        "correctAnswer": "8"
     },
     {
         "id": 30,
-        "questionText": "Who was the ruler of the Kalinga Kingdom when Ashoka invaded?",
+        "questionText": "Which country has the largest population in the world?",
         "options": [
-            "Chandragupta Maurya",
-            "Bindusara",
-            "King Porus",
-            "King Anantha"
+            "India",
+            "USA",
+            "China",
+            "Indonesia"
         ],
-        "correctAnswer": "King Anantha"
-    },
-    {
-        "id": 31,
-        "questionText": "Which British Governor-General introduced the Doctrine of Lapse?",
-        "options": [
-            "Lord Dalhousie",
-            "Lord Curzon",
-            "Lord Wellesley",
-            "Lord Hastings"
-        ],
-        "correctAnswer": "Lord Dalhousie"
-    },
-    {
-        "id": 32,
-        "questionText": "Who was the first woman ruler of Delhi?",
-        "options": [
-            "Razia Sultan",
-            "Nur Jahan",
-            "Jahanara Begum",
-            "Rani Laxmi Bai"
-        ],
-        "correctAnswer": "Razia Sultan"
-    },
-    {
-        "id": 33,
-        "questionText": "Which Indian King was known as the 'Napoleon of India'?",
-        "options": [
-            "Ashoka",
-            "Samudragupta",
-            "Harsha",
-            "Chandragupta II"
-        ],
-        "correctAnswer": "Samudragupta"
-    },
-    {
-        "id": 34,
+        "correctAnswer": "China"
+    }
+]
