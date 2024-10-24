@@ -1,0 +1,552 @@
+[
+    {
+        "id": 1,
+        "questionText": "What is the capital of France?",
+        "options": [
+            "Berlin",
+            "Madrid",
+            "Paris",
+            "Rome"
+        ],
+        "correctAnswer": "Paris"
+    },
+    {
+        "id": 2,
+        "questionText": "Which river is the longest in the world?",
+        "options": [
+            "Amazon",
+            "Nile",
+            "Yangtze",
+            "Mississippi"
+        ],
+        "correctAnswer": "Nile"
+    },
+    {
+        "id": 3,
+        "questionText": "What is the largest desert in the world?",
+        "options": [
+            "Sahara",
+            "Arabian",
+            "Gobi",
+            "Kalahari"
+        ],
+        "correctAnswer": "Sahara"
+    },
+    {
+        "id": 4,
+        "questionText": "Which country has the largest population?",
+        "options": [
+            "India",
+            "USA",
+            "China",
+            "Indonesia"
+        ],
+        "correctAnswer": "China"
+    },
+    {
+        "id": 5,
+        "questionText": "What is the capital of Japan?",
+        "options": [
+            "Tokyo",
+            "Seoul",
+            "Beijing",
+            "Bangkok"
+        ],
+        "correctAnswer": "Tokyo"
+    },
+    {
+        "id": 6,
+        "questionText": "Which continent is known as the 'Dark Continent'?",
+        "options": [
+            "Asia",
+            "Africa",
+            "Australia",
+            "South America"
+        ],
+        "correctAnswer": "Africa"
+    },
+    {
+        "id": 7,
+        "questionText": "What is the tallest mountain in the world?",
+        "options": [
+            "K2",
+            "Kangchenjunga",
+            "Mount Everest",
+            "Lhotse"
+        ],
+        "correctAnswer": "Mount Everest"
+    },
+    {
+        "id": 8,
+        "questionText": "Which ocean is the largest?",
+        "options": [
+            "Atlantic Ocean",
+            "Indian Ocean",
+            "Arctic Ocean",
+            "Pacific Ocean"
+        ],
+        "correctAnswer": "Pacific Ocean"
+    },
+    {
+        "id": 9,
+        "questionText": "Which country is known as the Land of the Rising Sun?",
+        "options": [
+            "Japan",
+            "China",
+            "Thailand",
+            "Vietnam"
+        ],
+        "correctAnswer": "Japan"
+    },
+    {
+        "id": 10,
+        "questionText": "What is the capital of Canada?",
+        "options": [
+            "Toronto",
+            "Vancouver",
+            "Ottawa",
+            "Montreal"
+        ],
+        "correctAnswer": "Ottawa"
+    },
+    {
+        "id": 11,
+        "questionText": "Which river flows through Egypt?",
+        "options": [
+            "Amazon",
+            "Nile",
+            "Ganges",
+            "Yangtze"
+        ],
+        "correctAnswer": "Nile"
+    },
+    {
+        "id": 12,
+        "questionText": "What is the largest country by land area?",
+        "options": [
+            "USA",
+            "Canada",
+            "China",
+            "Russia"
+        ],
+        "correctAnswer": "Russia"
+    },
+    {
+        "id": 13,
+        "questionText": "Which is the smallest country in the world?",
+        "options": [
+            "Monaco",
+            "Nauru",
+            "Vatican City",
+            "San Marino"
+        ],
+        "correctAnswer": "Vatican City"
+    },
+    {
+        "id": 14,
+        "questionText": "Which mountain range separates Europe and Asia?",
+        "options": [
+            "Andes",
+            "Himalayas",
+            "Ural Mountains",
+            "Rocky Mountains"
+        ],
+        "correctAnswer": "Ural Mountains"
+    },
+    {
+        "id": 15,
+        "questionText": "What is the currency of the United Kingdom?",
+        "options": [
+            "Dollar",
+            "Euro",
+            "Pound",
+            "Yen"
+        ],
+        "correctAnswer": "Pound"
+    },
+    {
+        "id": 16,
+        "questionText": "Which continent is the Sahara Desert located in?",
+        "options": [
+            "Asia",
+            "North America",
+            "Africa",
+            "Australia"
+        ],
+        "correctAnswer": "Africa"
+    },
+    {
+        "id": 17,
+        "questionText": "What is the capital of Australia?",
+        "options": [
+            "Sydney",
+            "Canberra",
+            "Melbourne",
+            "Brisbane"
+        ],
+        "correctAnswer": "Canberra"
+    },
+    {
+        "id": 18,
+        "questionText": "Which is the longest river in North America?",
+        "options": [
+            "Mississippi River",
+            "Colorado River",
+            "Amazon River",
+            "Rio Grande"
+        ],
+        "correctAnswer": "Mississippi River"
+    },
+    {
+        "id": 19,
+        "questionText": "Which country is famous for the Great Wall?",
+        "options": [
+            "Japan",
+            "Vietnam",
+            "China",
+            "South Korea"
+        ],
+        "correctAnswer": "China"
+    },
+    {
+        "id": 20,
+        "questionText": "What is the capital of Italy?",
+        "options": [
+            "Milan",
+            "Florence",
+            "Venice",
+            "Rome"
+        ],
+        "correctAnswer": "Rome"
+    },
+    {
+        "id": 21,
+        "questionText": "Which two countries share the longest border in the world?",
+        "options": [
+            "USA and Canada",
+            "Brazil and Argentina",
+            "India and China",
+            "Russia and Kazakhstan"
+        ],
+        "correctAnswer": "USA and Canada"
+    },
+    {
+        "id": 22,
+        "questionText": "Which river is known as the 'Father of Waters'?",
+        "options": [
+            "Nile",
+            "Amazon",
+            "Mississippi",
+            "Yangtze"
+        ],
+        "correctAnswer": "Mississippi"
+    },
+    {
+        "id": 23,
+        "questionText": "What is the capital of Russia?",
+        "options": [
+            "Moscow",
+            "St. Petersburg",
+            "Kiev",
+            "Helsinki"
+        ],
+        "correctAnswer": "Moscow"
+    },
+    {
+        "id": 24,
+        "questionText": "Which continent is known for its unique wildlife, including kangaroos?",
+        "options": [
+            "Africa",
+            "Asia",
+            "Australia",
+            "South America"
+        ],
+        "correctAnswer": "Australia"
+    },
+    {
+        "id": 25,
+        "questionText": "What is the highest waterfall in the world?",
+        "options": [
+            "Angel Falls",
+            "Niagara Falls",
+            "Victoria Falls",
+            "Yosemite Falls"
+        ],
+        "correctAnswer": "Angel Falls"
+    },
+    {
+        "id": 26,
+        "questionText": "Which city is known as the Big Apple?",
+        "options": [
+            "Los Angeles",
+            "Chicago",
+            "New York City",
+            "Miami"
+        ],
+        "correctAnswer": "New York City"
+    },
+    {
+        "id": 27,
+        "questionText": "Which country has the most natural lakes?",
+        "options": [
+            "USA",
+            "Canada",
+            "Russia",
+            "Brazil"
+        ],
+        "correctAnswer": "Canada"
+    },
+    {
+        "id": 28,
+        "questionText": "What is the capital of Brazil?",
+        "options": [
+            "Rio de Janeiro",
+            "Brasilia",
+            "Sao Paulo",
+            "Salvador"
+        ],
+        "correctAnswer": "Brasilia"
+    },
+    {
+        "id": 29,
+        "questionText": "Which country is known as the 'Emerald Isle'?",
+        "options": [
+            "Scotland",
+            "Ireland",
+            "Wales",
+            "New Zealand"
+        ],
+        "correctAnswer": "Ireland"
+    },
+    {
+        "id": 30,
+        "questionText": "What is the main language spoken in Brazil?",
+        "options": [
+            "Spanish",
+            "Portuguese",
+            "French",
+            "English"
+        ],
+        "correctAnswer": "Portuguese"
+    },
+    {
+        "id": 31,
+        "questionText": "Which country is the smallest by land area?",
+        "options": [
+            "Malta",
+            "Vatican City",
+            "Nauru",
+            "San Marino"
+        ],
+        "correctAnswer": "Vatican City"
+    },
+    {
+        "id": 32,
+        "questionText": "Which mountain is located in North America?",
+        "options": [
+            "Mount Everest",
+            "Kilimanjaro",
+            "Denali",
+            "Aconcagua"
+        ],
+        "correctAnswer": "Denali"
+    },
+    {
+        "id": 33,
+        "questionText": "Which country is home to the ancient city of Petra?",
+        "options": [
+            "Jordan",
+            "Egypt",
+            "Greece",
+            "Turkey"
+        ],
+        "correctAnswer": "Jordan"
+    },
+    {
+        "id": 34,
+        "questionText": "What is the capital of Egypt?",
+        "options": [
+            "Cairo",
+            "Alexandria",
+            "Luxor",
+            "Giza"
+        ],
+        "correctAnswer": "Cairo"
+    },
+    {
+        "id": 35,
+        "questionText": "Which continent has the most countries?",
+        "options": [
+            "Asia",
+            "Africa",
+            "Europe",
+            "North America"
+        ],
+        "correctAnswer": "Africa"
+    },
+    {
+        "id": 36,
+        "questionText": "What is the capital of Spain?",
+        "options": [
+            "Barcelona",
+            "Madrid",
+            "Valencia",
+            "Sevilla"
+        ],
+        "correctAnswer": "Madrid"
+    },
+    {
+        "id": 37,
+        "questionText": "Which desert is the largest in the Americas?",
+        "options": [
+            "Sahara",
+            "Patagonian",
+            "Sonoran",
+            "Atacama"
+        ],
+        "correctAnswer": "Atacama"
+    },
+    {
+        "id": 38,
+        "questionText": "What is the capital city of Greece?",
+        "options": [
+            "Athens",
+            "Rome",
+            "Cairo",
+            "Istanbul"
+        ],
+        "correctAnswer": "Athens"
+    },
+    {
+        "id": 39,
+        "questionText": "Which country has the most volcanoes?",
+        "options": [
+            "Indonesia",
+            "Japan",
+            "USA",
+            "Italy"
+        ],
+        "correctAnswer": "Indonesia"
+    },
+    {
+        "id": 40,
+        "questionText": "What is the largest island in the world?",
+        "options": [
+            "Greenland",
+            "New Guinea",
+            "Borneo",
+            "Madagascar"
+        ],
+        "correctAnswer": "Greenland"
+    },
+    {
+        "id": 41,
+        "questionText": "Which continent is Mount Kilimanjaro located in?",
+        "options": [
+            "Africa",
+            "Asia",
+            "South America",
+            "Australia"
+        ],
+        "correctAnswer": "Africa"
+    },
+    {
+        "id": 42,
+        "questionText": "Which country is famous for the Eiffel Tower?",
+        "options": [
+            "Germany",
+            "France",
+            "Italy",
+            "Spain"
+        ],
+        "correctAnswer": "France"
+    },
+    {
+        "id": 43,
+        "questionText": "Which river runs through London?",
+        "options": [
+            "Thames",
+            "Seine",
+            "Rhine",
+            "Danube"
+        ],
+        "correctAnswer": "Thames"
+    },
+    {
+        "id": 44,
+        "questionText": "What is the capital of Thailand?",
+        "options": [
+            "Bangkok",
+            "Hanoi",
+            "Kuala Lumpur",
+            "Singapore"
+        ],
+        "correctAnswer": "Bangkok"
+    },
+    {
+        "id": 45,
+        "questionText": "Which ocean is the Bermuda Triangle located in?",
+        "options": [
+            "Atlantic Ocean",
+            "Pacific Ocean",
+            "Indian Ocean",
+            "Arctic Ocean"
+        ],
+        "correctAnswer": "Atlantic Ocean"
+    },
+    {
+        "id": 46,
+        "questionText": "What is the capital of India?",
+        "options": [
+            "Mumbai",
+            "Delhi",
+            "Bangalore",
+            "Chennai"
+        ],
+        "correctAnswer": "Delhi"
+    },
+    {
+        "id": 47,
+        "questionText": "Which country is known for its fjords?",
+        "options": [
+            "Sweden",
+            "Norway",
+            "Finland",
+            "Denmark"
+        ],
+        "correctAnswer": "Norway"
+    },
+    {
+        "id": 48,
+        "questionText": "What is the largest ocean in the world?",
+        "options": [
+            "Atlantic Ocean",
+            "Indian Ocean",
+            "Arctic Ocean",
+            "Pacific Ocean"
+        ],
+        "correctAnswer": "Pacific Ocean"
+    },
+    {
+        "id": 49,
+        "questionText": "Which country has the most pyramids?",
+        "options": [
+            "Mexico",
+            "Egypt",
+            "Sudan",
+            "Greece"
+        ],
+        "correctAnswer": "Sudan"
+    },
+    {
+        "id": 50,
+        "questionText": "What is the capital of Sweden?",
+        "options": [
+            "Oslo",
+            "Copenhagen",
+            "Stockholm",
+            "Helsinki"
+        ],
+        "correctAnswer": "Stockholm"
+    }
+]
